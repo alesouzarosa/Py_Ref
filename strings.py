@@ -1,0 +1,1 @@
+#funcionamentos das strings
